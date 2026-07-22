@@ -1,12 +1,12 @@
 # 👋 Hi hi! I'm Yuto
-### I love and hate what I do. It drives me crazy, but I'm exactly where I wanna be.
+> "I never look back, darling. It distracts from the now." <sub>-- Edna Mode</sub>
 
 ---
 
 ### 💻 About Me
-- 🔭 I’m currently working on a **mock social media backeend** which has features such as flagging suspicious ip addresses and filtering profanity.
-- 🌱 I’m currently learning **Data Science Skills**
-- ⚡ Fun fact: **I love fried rice, a little too much**
+&emsp;I am currently a **🎓 4th year BS CS student**. I have experience with working **🌐 fullstack** both inside and outside of the classroom. Recently, I've been looking into improving and applying my CS skills _to make the internet safer_ for people of all ages and technical experience. **💻 Software Engineering** is my best and favorite discipline, but I fooled around with **🔒 Cybersecurity** (enjoyed it too), and am now learning more about **📊 Data Science**.
+
+&emsp;A little bit of a generalist, struggling to be a specialist. We'll get there though. Fun fact, I have a love-hate relationship with what I do. CS drives me crazy, but I am exactly where I want to be.
 
 ---
 
