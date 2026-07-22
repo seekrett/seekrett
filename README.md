@@ -1,4 +1,4 @@
-# 👋 Hi hi! I'm Yuto
+# <img width="25" alt="waving emote" src="https://i.pinimg.com/originals/51/12/5d/51125d9904b0aab078e2f7d0cbf37d8a.gif" /> Hi hi! I'm Yuto
 > "I never look back, darling. It distracts from the now." <sub>-- Edna Mode</sub>
 
 ---
